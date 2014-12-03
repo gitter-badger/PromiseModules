@@ -1,4 +1,5 @@
 #ECMA-6 Promise-based module system
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hazzlejs/PromiseModules?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Lightweight, **ECMA-6 Promise-based** module loader library supporting *ECMA-262 Revision 6**
  
