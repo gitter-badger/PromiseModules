@@ -6,4 +6,4 @@ For this to work you need to include a **ECMA-6 Promise shim** if your browser d
  
 The **shim** has to be loaded *before* this library.
 
-####The module system will be developed soon as I have time. Meanwhile this repo are just here as a placeholder 
+####NOTE!! The module system will be developed soon as I have time. Meanwhile this repo are just here as a placeholder 
